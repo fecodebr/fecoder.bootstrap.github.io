@@ -2,11 +2,11 @@ body {
     font: 20px Arial, sans-serif;
 }
 .navbar{
-    background-color: #a49ef3;
+    background-color: #dbdada;
 }
 
 .quem-somos {
-    background-color: rgb(77, 77, 131);
+    background-color: rgb(37, 37, 59);
     color: white;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .parceiros{
-    background-color: rgb(158, 158, 235);
+    background-color: #dbdada;
 }
 
 .col-lg-4{
